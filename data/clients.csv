@@ -1,0 +1,13 @@
+client_id,contact_name,company,email,phone,service,status,start_date,notes
+C001,Marcus Delgado,Delgado Home Services,marcus@delgadohomeservices.example,555-0111,Marketing Proposal,Active,2026-08-10,Wants revised proposal by Oct 9
+C002,Priya Nair,Nair Wellness,priya@nairwellness.example,555-0112,Brand Workshop,Active,2026-09-01,Strategy session Oct 8
+C003,Tom Hargrove,Hargrove & Lee LLP,thargrove@hargrovelee.example,555-0113,Consulting Retainer,Active,2026-07-15,Contract pending signature
+C004,Elena Cruz,Cruz Bakery,elena@cruzbakery.example,555-0114,Menu Design & Launch,Active,2026-06-20,Referred Dana Whitaker
+C005,Daniel Brooks,Brooks Fitness,daniel@brooksfitness.example,555-0142,Social Media Audit,At Risk,2026-08-25,Audit late; invoice unpaid
+C006,Aisha Rahman,Rahman Dental Group,aisha@rahmandental.example,,Local SEO,Active,2026-05-30,Phone missing
+C007,Julia Whitfield,Whitfield Realty,julia@whitfieldrealty.example,555-0116,Monthly Content Plan,Active,2026-04-12,
+C008,Carlos Mendez,Mendez Logistics,carlos@mendezlogistics.example,555-0117,Process Consulting,Active,2026-09-05,Disputing hours on invoice
+C009,Kevin O'Neill,Greenleaf Landscaping,kevin@greenleaflandscaping.example,555-0118,Q4 Marketing Plan,Prospect,2026-09-22,Awaiting go-ahead
+C010,Owen Park,Parkview Coffee,owen@parkviewcoffee.example,555-0119,Menu Sample Design,Active,2026-09-10,
+C011,Rachel Stein,Stein Architects,rachel@steinarchitects.example,,Rebrand,Proposal Sent,2026-09-28,Feedback was due Oct 2
+C012,Elena Cruz,Cruz Bakery & Cafe,elena.cruz@cruzbakery.example,555-0114,Menu Design,Active,,Possible duplicate of C004

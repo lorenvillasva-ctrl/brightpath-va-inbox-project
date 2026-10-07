@@ -1,0 +1,31 @@
+email_id,suggested_label,priority,required_action,owner,deadline,followup_date,response_needed,client_approval_needed,issues_to_spot
+E001,01 - Action Required,High,Confirm correct price with Sarah then send revised proposal,Sarah (VA drafts),2026-10-09,2026-10-08,Yes,Yes,Conflicting price ($4,500 vs $5,200)
+E002,01 - Action Required,Medium,Draft reply on workshop pricing; get Sarah's OK on discount,Sarah (VA drafts),2026-10-07,2026-10-08,Yes,Yes,Same-day reply requested
+E003,01 - Action Required,High,Ask Tom to resend attachment; Sarah reviews and signs,Sarah,2026-10-12,2026-10-09,Yes,Yes,"Says ""attached"" but no attachment; messy Re: Re: subject"
+E004,02 - Client Information,Medium,Thank Elena; log Dana Whitaker as lead; check INV-1042,Loren,2026-10-08,2026-10-09,Yes,No,Referral not in tracker; invoice may not have been sent
+E005,01 - Action Required,Urgent,Sarah calls Daniel; decide on pausing reminders,Sarah,2026-10-07,2026-10-08,Yes,Yes,Client upset; flag; duplicate of brain-dump item
+E006,03 - Invoices & Payments,High,Log overdue status; pause reminders if Sarah agrees,Loren,2026-10-07,,No,Yes,Related to E005; automated email
+E007,03 - Invoices & Payments,Medium,Verify transfer in bank statement; confirm to Aisha,Loren,2026-10-08,2026-10-09,Yes,No,Payment unconfirmed
+E008,03 - Invoices & Payments,Medium,Verify invoice number then resend,Loren,2026-10-08,2026-10-12,Yes,No,Uncertain invoice number
+E009,01 - Action Required,High,Sarah reviews hours; adjust invoice if needed,Sarah,2026-10-09,2026-10-12,Yes,Yes,Disputed invoice
+E010,04 - Follow-Up,Medium,Verify whether INV-1041 was already paid,Loren,2026-10-08,2026-10-11,No,No,Conflicts with handoff note (E024)
+E011,04 - Follow-Up,Medium,Send second follow-up to Kevin,Loren,2026-10-07,2026-10-07,Yes,No,Deadline already passed
+E012,01 - Action Required,Low,Finish draft with Sarah's input,Loren,2026-10-08,,Yes,Yes,Unfinished draft with placeholders
+E013,06 - Waiting for Client,Medium,Send follow-up to Rachel,Loren,2026-10-07,2026-10-07,Yes,No,Feedback deadline missed
+E014,05 - Meetings & Calendar,High,Reply to invite after Sarah picks between E014 and E016,Sarah,2026-10-07,2026-10-07,Yes,Yes,Conflicts with E016
+E015,05 - Meetings & Calendar,Medium,Propose a new time to Tom and update calendar,Loren,2026-10-08,2026-10-09,Yes,Yes,Two options offered
+E016,05 - Meetings & Calendar,Medium,Counter-propose another time (Thursday 2 PM taken),Loren,2026-10-07,2026-10-08,Yes,Yes,Double-booking; time zone not stated
+E017,05 - Meetings & Calendar,Low,Add webinar to calendar,Loren,2026-10-13,,No,No,Already registered
+E018,01 - Action Required,Medium,Convert to tasks; clarify unclear items,Loren,2026-10-08,,Yes,No,Duplicates other emails; one item ambiguous
+E019,01 - Action Required,Medium,Ask Sarah to complete the draft,Loren,2026-10-08,,Yes,No,Item 2 left blank; draft not sent
+E020,01 - Action Required,Medium,Get Sarah's decision before renewal,Sarah,2026-10-09,2026-10-09,No,Yes,Auto-renews Oct 10
+E021,08 - Reference,Low,Archive; ask Sarah if upgrade is wanted,Loren,,,No,No,Marketing nudge
+E022,08 - Reference,Low,Note delivery date; archive after receipt,Loren,2026-10-08,,No,No,Routine order
+E023,01 - Action Required,High,Collect Q3 invoices and receipts; send to Brenda,Loren,2026-10-15,2026-10-12,Yes,Yes,Duplicate of earlier Sep 15 request
+E024,08 - Reference,Medium,File handoff notes; verify claims against records,Loren,,,No,No,Says INV-1041 paid; conflicts with E010
+E025,08 - Reference,Low,Use for reconciling payments; archive,Loren,,,No,No,Needed for E007
+E026,Archive (newsletter),Low,Archive or unsubscribe,Loren,,,No,No,Newsletter
+E027,Archive / Trash,Low,Delete,Loren,,,No,No,Promotional
+E028,Archive,Low,Archive; mention to Sarah only if relevant,Loren,,,No,No,Promotional; expires Friday
+E029,Spam (report phishing),Low,Do not click; report phishing and delete,Loren,,,No,No,Suspicious domain; urgency tactic
+E030,Spam,Low,Delete,Loren,,,No,No,Fake prize; asks for fee

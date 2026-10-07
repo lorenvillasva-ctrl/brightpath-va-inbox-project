@@ -1,0 +1,6 @@
+meeting_id,title,client,date,start_time,end_time,timezone,location,status,notes
+M001,Strategy Session,Priya Nair,2026-10-08,14:00,15:00,ET,Google Meet,Invited - no reply,
+M002,Menu launch plan call,Elena Cruz,2026-10-08,14:00,14:45,,Phone,Requested,Overlaps with M001
+M003,Client call,Tom Hargrove,2026-10-09,11:00,,ET,Zoom,Needs reschedule,Tom proposed Oct 13 10:00 or Oct 14 after 13:00
+M004,Webinar: Content Strategy for Consultants,Internal,2026-10-14,12:00,13:00,ET,Zoom,Registered,Not on calendar
+M005,Weekly client check-in,Internal,2026-10-12,09:00,,,Google Meet,Recurring,Time zone and end time missing

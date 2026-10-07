@@ -1,0 +1,10 @@
+invoice_no,client,description,amount,issue_date,due_date,status,payment_date,notes
+INV-1041,Marcus Delgado,Strategy session package,1800.00,2026-09-01,2026-09-15,Overdue,,Reminder sent Oct 4; handoff note says paid Sep 20
+INV-1042,Cruz Bakery,September menu design,950.00,,2026-10-05,Draft?,,Client says never received it
+INV-1043,Brooks Fitness,Social media audit deposit,1200.00,2026-09-09,2026-09-23,Overdue,,Auto reminders sent; audit not delivered
+INV-1044,Rahman Dental,Local SEO - September,2400.00,2026-09-17,2026-10-01,Sent,,Client says paid Oct 1 by transfer; unconfirmed
+INV-1045,Thomas Hargrove,Consulting retainer - Oct,3000.00,2026-10-01,2026-10-20,Sent,,Name differs from client tracker (Tom)
+INV-1046,Whitfield Realty,Monthly content plan,1500.00,2026-09-15,2026-09-30,Sent?,,Client cannot find it; number uncertain
+INV-1047,Mendez Logistics,Process consulting - 10 hrs,2000.00,2026-09-20,2026-10-04,Disputed,,Client timesheet shows 8 hrs ($1,600)
+INV-1048,Greenleaf Landscape,Q4 planning deposit,2750.00,2026-09-10,2026-09-25,Paid,2026-09-25,Company name inconsistent
+INV-1049,Parkview Coffee,Sample menu design,600.00,2026-09-30,,,,Missing due date and status

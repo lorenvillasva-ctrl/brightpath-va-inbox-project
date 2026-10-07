@@ -1,0 +1,11 @@
+followup_id,client,subject,last_contact,followup_date,owner,status,related_email,notes
+F001,Marcus Delgado,INV-1041 payment,2026-10-04,2026-10-11,Loren,Waiting,E010,Verify whether it was already paid Sep 20
+F002,Kevin O'Neill,Q4 marketing plan go-ahead,2026-10-01,2026-10-07,Loren,Overdue,E011,Deadline Oct 5 passed
+F003,Owen Park,Sample menu approval,2026-09-20,,Loren,Unclear,E012,Draft never sent
+F004,Rachel Stein,Rebrand proposal feedback,2026-09-28,2026-10-07,Loren,Overdue,E013,Feedback was due Oct 2
+F005,Daniel Brooks,Audit status call,2026-10-02,2026-10-07,Sarah,Open,E005,
+F006,Aisha Rahman,Payment confirmation,2026-10-03,2026-10-08,Loren,Open,E007,
+F007,Julia Whitfield,Invoice resend,2026-09-29,2026-10-08,Loren,Open,E008,
+F008,Brenda Cho,Q3 documents,2026-09-30,2026-10-12,Loren,Open,E023,Second request
+F009,Dana Whitaker,Referral introduction,2026-10-05,2026-10-09,Sarah,Not Started,E004,Not in client tracker
+F010,Daniel Brooks,Call back,2026-10-02,2026-10-08,Sarah,Open,E018,Possible duplicate of F005

@@ -1,0 +1,305 @@
+[
+  {
+    "id": "E001",
+    "sender": "Marcus Delgado <marcus@delgadohomeservices.example>",
+    "recipient": "Sarah Mitchell <sarah.mitchell@brightpathconsulting.example>",
+    "subject": "Revised proposal - need it by Friday?",
+    "timestamp": "2026-10-06T08:42:00-04:00",
+    "body": "Hi Sarah,\n\nFollowing our call last week, can you send over the revised marketing proposal by this Friday (Oct 9)? My partners meet Monday morning and I'd like them to review it first.\n\nOne thing - I remember we agreed on $4,500 for the full package, but the earlier draft said $5,200. Can you confirm which one is right before it goes out?\n\nThanks,\nMarcus",
+    "folder": "Inbox",
+    "unread": true
+  },
+  {
+    "id": "E002",
+    "sender": "Priya Nair <priya@nairwellness.example>",
+    "recipient": "Sarah Mitchell <sarah.mitchell@brightpathconsulting.example>",
+    "subject": "Quick question on brand workshop pricing",
+    "timestamp": "2026-10-06T07:15:00-04:00",
+    "body": "Hi Sarah,\n\nIs the $1,200 brand workshop inclusive of the 30-day follow-up session, or is that billed separately? My business partner is also asking whether there's any discount if we book two sessions.\n\nIf you can let me know today, I can confirm with her before our Thursday call.\n\nBest,\nPriya",
+    "folder": "Inbox",
+    "unread": true
+  },
+  {
+    "id": "E003",
+    "sender": "Tom Hargrove <thargrove@hargrovelee.example>",
+    "recipient": "Sarah Mitchell <sarah.mitchell@brightpathconsulting.example>",
+    "subject": "Re: Re: Contract draft - attached",
+    "timestamp": "2026-10-05T16:20:00-04:00",
+    "body": "Hi Sarah,\n\nAttached is the updated contract with our changes in section 4. Please review and send it back signed by Oct 12 so we can kick off on the 14th.\n\nOur partner Lee has already approved the terms.\n\nRegards,\nTom",
+    "folder": "Inbox",
+    "unread": true,
+    "attachments": []
+  },
+  {
+    "id": "E004",
+    "sender": "Elena Cruz <elena@cruzbakery.example>",
+    "recipient": "Sarah Mitchell <sarah.mitchell@brightpathconsulting.example>",
+    "subject": "Thank you! (and a referral)",
+    "timestamp": "2026-10-05T11:03:00-04:00",
+    "body": "Sarah,\n\nThe new menu design is gorgeous - customers are already commenting on it. I'd like to introduce you to a friend, Dana Whitaker from Whitaker Pilates. She'll be emailing you this week.\n\nAlso, I don't think I ever received my invoice for September. Did I miss it?\n\nThanks again!\nElena",
+    "folder": "Inbox",
+    "unread": false
+  },
+  {
+    "id": "E005",
+    "sender": "Daniel Brooks <daniel@brooksfitness.example>",
+    "recipient": "Sarah Mitchell <sarah.mitchell@brightpathconsulting.example>",
+    "subject": "Social media audit - where is it?",
+    "timestamp": "2026-10-02T14:50:00-04:00",
+    "body": "Sarah,\n\nI was told the audit would be ready by Sep 25. It's now Oct 2 and I haven't heard a thing. I've also started getting payment reminders for an invoice, even though I haven't received the audit.\n\nPlease call me today: 555-0142.\n\nDaniel",
+    "folder": "Inbox",
+    "unread": true
+  },
+  {
+    "id": "E006",
+    "sender": "InvoiceHub Notifications <no-reply@invoicehub.example>",
+    "recipient": "Sarah Mitchell <sarah.mitchell@brightpathconsulting.example>",
+    "subject": "Payment reminder: Invoice INV-1043 is 13 days overdue",
+    "timestamp": "2026-10-06T06:00:00-04:00",
+    "body": "Invoice INV-1043 for Brooks Fitness ($1,200.00) was due on Sep 23, 2026 and is now 13 days overdue.\n\nReminder #2 was sent automatically to daniel@brooksfitness.example. The next automatic reminder will go out in 7 days.\n\nTo pause reminders, log in to your InvoiceHub account.",
+    "folder": "Inbox",
+    "unread": true
+  },
+  {
+    "id": "E007",
+    "sender": "Aisha Rahman <aisha@rahmandental.example>",
+    "recipient": "Sarah Mitchell <sarah.mitchell@brightpathconsulting.example>",
+    "subject": "Payment sent - INV-1044",
+    "timestamp": "2026-10-03T09:30:00-04:00",
+    "body": "Hi Sarah,\n\nI sent $2,400 by bank transfer on Oct 1 for invoice 1044. Reference: RDG-1044. Please confirm once it arrives.\n\nThanks,\nAisha",
+    "folder": "Inbox",
+    "unread": false
+  },
+  {
+    "id": "E008",
+    "sender": "Julia Whitfield <julia@whitfieldrealty.example>",
+    "recipient": "Sarah Mitchell <sarah.mitchell@brightpathconsulting.example>",
+    "subject": "Can you resend the invoice?",
+    "timestamp": "2026-09-29T13:12:00-04:00",
+    "body": "Hi Sarah,\n\nI can't find the September invoice in my inbox. I think it was #1046? If you resend it I can get it paid by Friday.\n\nJulia",
+    "folder": "Inbox",
+    "unread": true
+  },
+  {
+    "id": "E009",
+    "sender": "Carlos Mendez <carlos@mendezlogistics.example>",
+    "recipient": "Sarah Mitchell <sarah.mitchell@brightpathconsulting.example>",
+    "subject": "Question about invoice 1047",
+    "timestamp": "2026-10-01T10:18:00-04:00",
+    "body": "Sarah,\n\nInvoice 1047 bills 10 hours of consulting, but my timesheet shows 8 hours. Can you review and adjust? I'd rather not pay the full amount until we sort this out.\n\nCarlos",
+    "folder": "Inbox",
+    "unread": true
+  },
+  {
+    "id": "E010",
+    "sender": "Sarah Mitchell <sarah.mitchell@brightpathconsulting.example>",
+    "recipient": "Marcus Delgado <marcus@delgadohomeservices.example>",
+    "subject": "Friendly reminder: INV-1041 (past due)",
+    "timestamp": "2026-10-04T09:00:00-04:00",
+    "body": "Hi Marcus,\n\nJust a gentle reminder that invoice INV-1041 for $1,800 was due on Sep 15. Could you let me know when to expect payment?\n\nThanks,\nSarah",
+    "folder": "Sent",
+    "unread": false
+  },
+  {
+    "id": "E011",
+    "sender": "Sarah Mitchell <sarah.mitchell@brightpathconsulting.example>",
+    "recipient": "Kevin O'Neill <kevin@greenleaflandscaping.example>",
+    "subject": "Following up: Q4 marketing plan",
+    "timestamp": "2026-10-01T15:40:00-04:00",
+    "body": "Hi Kevin,\n\nI sent over the Q4 marketing plan last week. Could you confirm whether you'd like to move forward by Oct 5 so I can hold the launch slot?\n\nBest,\nSarah",
+    "folder": "Sent",
+    "unread": false
+  },
+  {
+    "id": "E012",
+    "sender": "Sarah Mitchell <sarah.mitchell@brightpathconsulting.example>",
+    "recipient": "Owen Park <owen@parkviewcoffee.example>",
+    "subject": "Checking in on sample menu approval",
+    "timestamp": "2026-10-03T18:05:00-04:00",
+    "body": "Hi Owen,\n\nI wanted to check in on the sample menu I sent a while ago. Could you approve it or send changes by [add date]?\n\nAlso, [add note about invoice?]\n\nThanks,\nSarah",
+    "folder": "Drafts",
+    "unread": false
+  },
+  {
+    "id": "E013",
+    "sender": "Sarah Mitchell <sarah.mitchell@brightpathconsulting.example>",
+    "recipient": "Rachel Stein <rachel@steinarchitects.example>",
+    "subject": "Proposal sent - awaiting your feedback",
+    "timestamp": "2026-09-28T10:25:00-04:00",
+    "body": "Hi Rachel,\n\nIt was great speaking with you. Attached are the rebrand proposal and timeline. Please let me know your thoughts by Oct 2.\n\nBest,\nSarah",
+    "folder": "Sent",
+    "unread": false,
+    "attachments": ["Stein_Rebrand_Proposal.pdf", "Stein_Timeline.pdf"]
+  },
+  {
+    "id": "E014",
+    "sender": "Google Calendar <calendar-notification@google.example>",
+    "recipient": "Sarah Mitchell <sarah.mitchell@brightpathconsulting.example>",
+    "subject": "Invitation: Strategy Session - Priya Nair @ Thu Oct 8, 2pm - 3pm (EDT)",
+    "timestamp": "2026-10-06T10:05:00-04:00",
+    "body": "Priya Nair has invited you to a Google Meet.\n\nStrategy Session\nThursday, Oct 8, 2026, 2:00pm - 3:00pm (Eastern Time)\nJoining info: meet.google.example/abc-defg-hij\n\nReply: Yes | No | Maybe",
+    "folder": "Inbox",
+    "unread": true
+  },
+  {
+    "id": "E015",
+    "sender": "Tom Hargrove <thargrove@hargrovelee.example>",
+    "recipient": "Sarah Mitchell <sarah.mitchell@brightpathconsulting.example>",
+    "subject": "Need to reschedule Friday's call",
+    "timestamp": "2026-10-05T17:45:00-04:00",
+    "body": "Sarah,\n\nSomething came up and Friday's 11 AM call won't work. Could we do Tuesday Oct 13 at 10 AM, or Wednesday Oct 14 after 1 PM?\n\nTom",
+    "folder": "Inbox",
+    "unread": true
+  },
+  {
+    "id": "E016",
+    "sender": "Elena Cruz <elena@cruzbakery.example>",
+    "recipient": "Sarah Mitchell <sarah.mitchell@brightpathconsulting.example>",
+    "subject": "Can we meet Thursday?",
+    "timestamp": "2026-10-06T12:30:00-04:00",
+    "body": "Hi Sarah,\n\nCould we do a quick 45-minute call Thursday at 2 PM? I'd like to finalize the menu launch plan.\n\nElena",
+    "folder": "Inbox",
+    "unread": true
+  },
+  {
+    "id": "E017",
+    "sender": "Zoom Webinars <no-reply@zoomwebinars.example>",
+    "recipient": "Sarah Mitchell <sarah.mitchell@brightpathconsulting.example>",
+    "subject": "Reminder: Content Strategy for Consultants - Oct 14, 12:00 PM EDT",
+    "timestamp": "2026-10-02T08:00:00-04:00",
+    "body": "Thanks for registering! Your webinar starts Wednesday, Oct 14 at 12:00 PM Eastern.\n\nJoin link: zoom.example/w/884201\n\nAdd to calendar: [link]",
+    "folder": "Inbox",
+    "unread": false
+  },
+  {
+    "id": "E018",
+    "sender": "Sarah Mitchell <sarah.mitchell.personal@gmail.example>",
+    "recipient": "Sarah Mitchell <sarah.mitchell@brightpathconsulting.example>",
+    "subject": "brain dump - things to do",
+    "timestamp": "2026-10-06T21:10:00-04:00",
+    "body": "- send Marcus the proposal (!!)\n- call Brenda re: the sales tax stuff\n- ask about Dana W. intro\n- update website bio\n- book flights to Chicago Nov 10-12\n- DesignDeck renew?? check\n- Loren: check on Owen\n- Daniel Brooks - call him back",
+    "folder": "Inbox",
+    "unread": true
+  },
+  {
+    "id": "E019",
+    "sender": "Sarah Mitchell <sarah.mitchell@brightpathconsulting.example>",
+    "recipient": "Loren Villas <loren.villas@example.com>",
+    "subject": "Q4 priorities",
+    "timestamp": "2026-10-04T20:15:00-04:00",
+    "body": "Hi Loren,\n\nHere's what I'm thinking for Q4:\n\n1. Close out Delgado proposal\n2. [fill in]\n3. Clean up invoices and make sure everything is tracked\n\nCan you also help organize my inbox and set up trackers? More details...",
+    "folder": "Drafts",
+    "unread": false
+  },
+  {
+    "id": "E020",
+    "sender": "DesignDeck Billing <billing@designdeck.example>",
+    "recipient": "Sarah Mitchell <sarah.mitchell@brightpathconsulting.example>",
+    "subject": "Your DesignDeck Pro plan renews on Oct 10",
+    "timestamp": "2026-10-02T07:30:00-04:00",
+    "body": "Hi Sarah,\n\nYour DesignDeck Pro plan will renew on Oct 10, 2026 for $149.90 (annual). The card on file ends in 4417.\n\nTo cancel or change plans, visit your account settings before Oct 10.",
+    "folder": "Inbox",
+    "unread": true
+  },
+  {
+    "id": "E021",
+    "sender": "CloudVault Team <support@cloudvault.example>",
+    "recipient": "Sarah Mitchell <sarah.mitchell@brightpathconsulting.example>",
+    "subject": "Your storage is 92% full",
+    "timestamp": "2026-10-01T09:00:00-04:00",
+    "body": "You've used 92% of your 100 GB storage. Upgrade to 1 TB for $12/month, or free up space by deleting files you no longer need.",
+    "folder": "Inbox",
+    "unread": true
+  },
+  {
+    "id": "E022",
+    "sender": "OfficeNook <orders@officenook.example>",
+    "recipient": "Sarah Mitchell <sarah.mitchell@brightpathconsulting.example>",
+    "subject": "Your order #ON-77412 has shipped",
+    "timestamp": "2026-10-03T14:22:00-04:00",
+    "body": "Good news! Your order of printer paper (5 reams) and sticky notes has shipped. Estimated delivery: Thursday, Oct 8.\n\nTracking: ON77412XYZ",
+    "folder": "Inbox",
+    "unread": false
+  },
+  {
+    "id": "E023",
+    "sender": "Brenda Cho <brenda@choandpartners.example>",
+    "recipient": "Sarah Mitchell <sarah.mitchell@brightpathconsulting.example>",
+    "subject": "Q3 sales tax documents needed",
+    "timestamp": "2026-09-30T09:48:00-04:00",
+    "body": "Hi Sarah,\n\nI need your Q3 invoices and expense receipts to prepare the sales tax filing. Please send them by Oct 15.\n\nI sent a similar request on Sep 15 but haven't received anything yet - let me know if it got lost.\n\nBrenda",
+    "folder": "Inbox",
+    "unread": true
+  },
+  {
+    "id": "E024",
+    "sender": "Jordan Ellis <jordan.ellis@example.com>",
+    "recipient": "Sarah Mitchell <sarah.mitchell@brightpathconsulting.example>",
+    "subject": "Handoff notes + onboarding checklist",
+    "timestamp": "2026-09-28T17:00:00-04:00",
+    "body": "Hi Sarah,\n\nHere are my handoff notes for whoever takes over admin support:\n\n- Marcus Delgado's INV-1041 was paid on Sep 20 (I marked it in the tracker).\n- Tom's contract wording must always go through you before anything is signed.\n- Weekly client check-ins happen on Mondays.\n- Brenda Cho handles bookkeeping; send her receipts monthly.\n\nOnboarding checklist is attached.\n\nGood luck!\nJordan",
+    "folder": "Inbox",
+    "unread": false,
+    "attachments": ["Onboarding_Checklist_v3.pdf"]
+  },
+  {
+    "id": "E025",
+    "sender": "Harbor Bank <statements@harborbank.example>",
+    "recipient": "Sarah Mitchell <sarah.mitchell@brightpathconsulting.example>",
+    "subject": "Your September statement is ready",
+    "timestamp": "2026-10-02T05:00:00-04:00",
+    "body": "Your September 2026 business checking statement is now available. Log in to view or download.",
+    "folder": "Inbox",
+    "unread": true
+  },
+  {
+    "id": "E026",
+    "sender": "Marketing Weekly <news@marketingweekly.example>",
+    "recipient": "Sarah Mitchell <sarah.mitchell@brightpathconsulting.example>",
+    "subject": "This week: 5 email subject lines that actually get opens",
+    "timestamp": "2026-10-05T06:30:00-04:00",
+    "body": "Welcome to this week's Marketing Weekly. Inside: five subject line formulas, a case study on local SEO, and our favorite tools.\n\nUnsubscribe | View in browser",
+    "folder": "Inbox",
+    "unread": true
+  },
+  {
+    "id": "E027",
+    "sender": "LinkedIn <notifications@linkedin.example>",
+    "recipient": "Sarah Mitchell <sarah.mitchell@brightpathconsulting.example>",
+    "subject": "Sarah, you appeared in 14 searches this week",
+    "timestamp": "2026-10-04T07:00:00-04:00",
+    "body": "See who's looking at your profile and get more visibility. Upgrade to Premium for a free month.",
+    "folder": "Inbox",
+    "unread": true
+  },
+  {
+    "id": "E028",
+    "sender": "SummitConnect <events@summitconnect.example>",
+    "recipient": "Sarah Mitchell <sarah.mitchell@brightpathconsulting.example>",
+    "subject": "Last chance: early-bird tickets for Growth Summit 2026",
+    "timestamp": "2026-10-03T08:15:00-04:00",
+    "body": "Early-bird pricing ends Friday! Join 2,000+ consultants and marketers for two days of workshops. Save $200 with code GROWTH200.",
+    "folder": "Inbox",
+    "unread": true
+  },
+  {
+    "id": "E029",
+    "sender": "Gmail Security Team <security-alert@gmail-support-verify.example>",
+    "recipient": "Sarah Mitchell <sarah.mitchell@brightpathconsulting.example>",
+    "subject": "URGENT: Your mailbox will be deleted in 24 hours",
+    "timestamp": "2026-10-05T03:12:00-04:00",
+    "body": "Dear User,\n\nWe detected unusual activity. Your mailbox will be permanently deleted unless you verify your account immediately.\n\nClick here to verify: http://gmail-support-verify.example/login\n\nGoogle Security Team",
+    "folder": "Inbox",
+    "unread": true
+  },
+  {
+    "id": "E030",
+    "sender": "Rewards Center <promo@giftcard-winners.example>",
+    "recipient": "Sarah Mitchell <sarah.mitchell@brightpathconsulting.example>",
+    "subject": "Congratulations! You've been selected for a $500 gift card",
+    "timestamp": "2026-10-04T02:44:00-04:00",
+    "body": "You are our lucky winner of a $500 gift card! Claim within 12 hours by completing a short survey and paying a $4.99 shipping fee.\n\nCLAIM NOW >>",
+    "folder": "Inbox",
+    "unread": true
+  }
+]

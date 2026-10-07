@@ -1,0 +1,16 @@
+task_id,task,related_client,owner,due_date,priority,status,source,notes
+T001,Send revised proposal to Marcus,Delgado Home Services,Sarah,2026-10-09,High,Not Started,E001,Price conflict ($4,500 vs $5,200)
+T002,Confirm correct proposal price,Delgado Home Services,Sarah,2026-10-08,High,Not Started,E001,
+T003,Review and sign Hargrove contract,Hargrove & Lee LLP,Sarah,2026-10-12,High,Not Started,E003,Attachment may be missing
+T004,Call Daniel Brooks,Brooks Fitness,Sarah,2026-10-07,Urgent,Not Started,E005,Also listed in brain dump
+T005,Deliver social media audit,Brooks Fitness,,2026-09-25,Urgent,Overdue,E005,No owner assigned
+T006,Reply to Priya about workshop pricing,Nair Wellness,Loren,2026-10-07,Medium,In Progress,E002,Needs Sarah's discount approval
+T007,Confirm Aisha's payment in bank,Rahman Dental Group,Loren,2026-10-08,Medium,Not Started,E007,
+T008,Resend September invoice to Julia,Whitfield Realty,Loren,2026-10-08,Medium,Not Started,E008,Verify invoice number first
+T009,Review Mendez timesheet vs invoice,Mendez Logistics,Sarah,2026-10-09,High,Not Started,E009,
+T010,Gather Q3 invoices and receipts for Brenda,Cho & Partners,Loren,2026-10-15,High,Not Started,E023,Second request
+T011,Decide on DesignDeck renewal,Internal,Sarah,2026-10-09,Medium,Not Started,E020,Renews Oct 10 ($149.90)
+T012,Book Chicago flights Nov 10-12,Internal,Sarah,2026-10-20,Low,Not Started,E018,
+T013,Update website bio,Internal,Sarah,,Low,Not Started,E018,No due date
+T014,Send Q3 documents to Brenda,Cho & Partners,Loren,2026-10-15,High,Not Started,E023,Possible duplicate of T010
+T015,Check on Owen's menu approval,Parkview Coffee,Loren,2026-10-08,Medium,Not Started,E018,Draft E012 unfinished
